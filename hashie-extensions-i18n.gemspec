@@ -8,6 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Hashie::Extensions::I18n::VERSION
   spec.authors       = ["Davide Bonapersona"]
   spec.email         = ["tech@feeligo.com"]
+  spec.licenses      = ["MIT"]
 
   spec.summary       = %q{Makes Hashie properties localizable}
   spec.homepage      = "https://github.com/Feeligo/hashie-extensions-i18n"
